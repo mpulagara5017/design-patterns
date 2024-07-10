@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Behavioral/" />
+    <Folder Include="Creational/" />
+    <Folder Include="Creational/Service/" />
+    <Folder Include="Creational/Service/IService/" />
+    <Folder Include="Structural/" />
+  </ItemGroup>
+
 </Project>
